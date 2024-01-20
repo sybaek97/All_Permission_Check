@@ -1,1 +1,1 @@
-it just All Permission Checked test App
+This project is just a demo app created to check all permissions on Android.
